@@ -1,11 +1,11 @@
 [
 	{
-		"slug": "cool-project",
-		"name": "Cool project 1",
+		"slug": "ornel-1",
+		"name": "Örnek_1",
 		"image": "placeholder.jpg",
-		"url": "https://www.google.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"url": "/posts/2013-12-23-ruby-json.markdown",
+		"date": "27 Eylül 2018",
+		"tags": ["PLC","Siemens"]
 	},
 	{
 		"name": "Cool project 2",
