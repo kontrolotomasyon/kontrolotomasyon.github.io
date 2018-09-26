@@ -43,11 +43,11 @@ a:hover {
   background: #fff;
 }
 .sidebar-nav {
-  margin: 0;
+  margin: 1;
   padding: 0;
 }
 .sidebar-nav li {
-  margin: 0;
+  margin: 1;
   list-style: none;
 }
 .sidebar-nav li::before {
@@ -97,7 +97,7 @@ div.col-sm-3 div.profile-about {
   color: #8C8C8C;
 }
 div.col-sm-3 img.profile-avatar {
-  border-radius: 0px;
+  border-radius: 1px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;

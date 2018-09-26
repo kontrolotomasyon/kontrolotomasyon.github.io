@@ -1,7 +1,7 @@
-title: İÜ-Cerrahpaşa Endüstriyel Otomasyon Eğitim ve Dokümantasyon
+title: Endüstriyel Otomasyon Eğitim ve Dokümantasyon
 description:
 author: umut ergene
-github: https://github.com/agusmakmun
+github: https://github.com/
 about: aboutmeaboutmeaboutmeaboutmeaboutmeaboutmeaboutme.
 disqus_shortname: umutergene
 google_analytics: UA-XXXXXXXX-Y
@@ -19,16 +19,16 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: 
   fb_appid: 1749788565247320
 
 urls:
