@@ -98,10 +98,10 @@ div.col-sm-3 div.profile-about {
 }
 div.col-sm-3 img.profile-avatar {
   border-radius: 0px;
-  -webkit-border-radius: 150px;
-  -moz-border-radius: 150px;
-  -ms-border-radius: 150px;
-  -o-border-radius: 150px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
   margin-left: auto;
   margin-right: auto;
 }
