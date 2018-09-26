@@ -14,12 +14,12 @@ hr {
   border-bottom: 1px solid #fff;
 }
 span.time, span.categories {
-  color: #ADADAD;
+  color: #777575;
   margin-bottom: 5px;
   font-size: 11px;
 }
 h1, h2, h3 {
-  color: #696969;
+  color: #383838;
   font-weight: normal;
 }
 h1 {
@@ -31,7 +31,7 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #3fa757;
+  color: ##133a56;
 }
 a:hover {
   color: #B3B3B3;
@@ -58,11 +58,11 @@ a:hover {
 /* Content */
 div.content pre {
   background: #333333;
-  padding: 10px;
+  padding: 15px;
   color: #FFF;
   overflow-x: auto;
   font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
-  font-size: 12px;
+  font-size: 16px;
   border: none;
 }
 div.content .highlight {
