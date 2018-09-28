@@ -1,17 +1,18 @@
 ---
-layout: post
 title: Example article
-date: 2016-05-01 12:00:00
-categories: articles
+date: 2016-05-01 12:00:00 Z
+categories:
+- articles
+layout: post
 comments: false
 en: true
 description: An example article to this theme
-pt: /articles/example-article-pt-br/
+pt: "/articles/example-article-pt-br/"
 description_pt: Um artigo de exemplo para esse tema
-keywords: "Key, words, about, this, article, to, SEO"
+keywords: Key, words, about, this, article, to, SEO
 authors:
-    - author1
-    - author2
+- author1
+- author2
 ---
 
 This is a example article.

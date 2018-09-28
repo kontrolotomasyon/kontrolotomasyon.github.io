@@ -1,17 +1,18 @@
 ---
-layout: post
 title: Example post
-date: 2016-05-01 12:00:00
-categories: posts
+date: 2016-05-01 12:00:00 Z
+categories:
+- posts
+layout: post
 comments: true
 en: true
 description: An example post to this theme
-pt: /posts/example-post-pt-br/
+pt: "/posts/example-post-pt-br/"
 description_pt: Um post de exemplo para esse tema
-keywords: "Key, words, about, this, post, to, SEO"
+keywords: Key, words, about, this, post, to, SEO
 authors:
-    - author1
-    - author2
+- author1
+- author2
 ---
 
 # Header

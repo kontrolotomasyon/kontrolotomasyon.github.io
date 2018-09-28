@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Título do artigo
-date: 2016-04-30 01:00:00
-categories: articles
+date: 2016-04-30 01:00:00 Z
+categories:
+- articles
+layout: post
 en: false
 comments: false
 description: descrição do artigo para SEO
-keywords: "palavras, chaves, desse, artigo, para, SEO"
+keywords: palavras, chaves, desse, artigo, para, SEO
 authors:
-    - author1
-    - author2
+- author1
+- author2
 ---
 
 Esse é só um exemplo de artigo, você pode ver melhor exemplo de texto no [example post]({{ site.baseurl }}/posts/example-post/).
