@@ -1,57 +1,62 @@
+---
 title: Endüstriyel Otomasyon Eğitim ve Dokümantasyon
-description:
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  project:
+    title: Project
+    output: true
+    permalink: "/project/:path/"
+  uploads:
+    title: Uploads
+    output: true
+description: 
 author: umut ergene
 github: https://github.com/
 about: aboutmeaboutmeaboutmeaboutmeaboutmeaboutmeaboutme.
 disqus_shortname: umutergene
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.png
-
+avatar_url: "/static/img/avatar.png"
 enableTags: true
 tagarray: []
-
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/"
-
+- icon: fa-facebook
+  link: "#"
+- icon: fa-twitter
+  link: https://twitter.com/
+- icon: fa-linkedin
+  link: https://www.linkedin.com/
+- icon: fa-stack-exchange
+  link: "#"
+- icon: fa-github
+  link: https://github.com/
 share:
   twitter_username: 
   fb_appid: 1749788565247320
-
 urls:
-    - text: Hakkında
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
-
+- text: Hakkında
+  url: "/about/"
+- text: My Projects
+  url: "/projects/"
+- text: XML Feed
+  url: "/feed.xml"
 url: "/"
-baseurl: ""
+baseurl: ''
 paginate: 50
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
 plugins:
-  - jekyll-paginate
-  - jekyll-gist
-
+- jekyll-paginate
+- jekyll-gist
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
+  comments:
+  - "<!-- "
+  - " -->"
   endings: all
   ignore:
-    envs: ['development']
+    envs:
+    - development
