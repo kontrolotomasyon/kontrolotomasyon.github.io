@@ -1,6 +1,6 @@
 ---
-title: Top 10 Python libraries of 2016
-date: 2016-12-29 11:34:10 Z
+title: Başlık 1
+date: 2016-12-29 11:34:00 Z
 categories:
 - python
 - django
