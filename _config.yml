@@ -5,6 +5,9 @@ collections:
   dosyalar:
     title: Dosyalar
     output: true
+  kitaplar:
+    title: Kitaplar
+    output: true
   posts:
     title: Posts
     output: true
