@@ -1,67 +1,28 @@
----
-title: Endüstriyel Otomasyon Eğitim ve Dokümantasyon
-timezone: UTC
-collections:
-  dosyalar:
-    title: Dosyalar
-    output: true
-  kitaplar:
-    title: Kitaplar
-    output: true
-  posts:
-    title: Posts
-    output: true
-  project:
-    title: Project
-    output: true
-    permalink: "/project/:path/"
-  uploads:
-    title: Uploads
-    output: true
-description: 
-author: umut ergene
-github: https://github.com/
-about: aboutmeaboutmeaboutmeaboutmeaboutmeaboutmeaboutme.
-disqus_shortname: umutergene
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: "/static/img/avatar.png"
-enableTags: true
-social:
-- icon: fa-facebook
-  link: "#"
-- icon: fa-twitter
-  link: https://twitter.com/
-- icon: fa-linkedin
-  link: https://www.linkedin.com/
-- icon: fa-stack-exchange
-  link: "#"
-- icon: fa-github
-  link: https://github.com/
-share:
-  twitter_username: 
-  fb_appid: 1749788565247320
-urls:
-- text: Hakkında
-  url: "/about/"
-- text: My Projects
-  url: "/projects/"
-- text: XML Feed
-  url: "/feed.xml"
-url: "/"
-baseurl: 
-paginate: 50
-per_page: 20
-paginate_path: "/page/:num/"
+# Site specific settings
+title: "Title to this website"
+name: "Website name"
+keywords: "Key, words, about, this, website"
+baseurl: "/darcli"
+url: "http://website.com"
+description: "Website description"
+cover: "/assets/img/cover.svg"
+fanpage_id: ""
+
+# Site general settings
+lang: "en"
+lang_alternate: "pt_BR"
+ssl: false # It will redirect to https
+
+# Media
+# Just the shortname:
+# facebook: lampiaosec # Rigth
+# facebook: facebook.com/lampiaosec # Wrong
+disqus: test
+twitter: 
+facebook: 
+github: 
+google:
+
+# Build settings
 markdown: kramdown
-plugins:
-- jekyll-paginate
-- jekyll-gist
-compress_html:
-  clippings: all
-  comments:
-  - "<!-- "
-  - " -->"
-  endings: all
-  ignore:
-    envs:
-    - development
+permalink: /:categories/:title/
