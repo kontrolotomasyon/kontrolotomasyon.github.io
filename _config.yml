@@ -1,6 +1,6 @@
 ---
 title: Title to this website
-timezone: UTC
+timezone:
 collections:
   posts:
     title: Posts
@@ -10,13 +10,8 @@ collections:
     output: true
 name: Website name
 keywords: Key, words, about, this, website
-<<<<<<< HEAD
-baseurl: ""
+baseurl: "/"
 url: /
-=======
-baseurl: ''
-url: http://website.com
->>>>>>> 2683d5f8f0ffd788b03eb06e756d1df57197454c
 description: Website description
 cover: "/assets/img/cover.svg"
 fanpage_id: ''
@@ -24,9 +19,9 @@ lang: en
 lang_alternate: pt_BR
 ssl: false
 disqus: test
-twitter: 
-facebook: 
-github: 
-google: 
+twitter:
+facebook:
+github:
+google:
 markdown: kramdown
 permalink: "/:categories/:title/"
