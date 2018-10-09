@@ -1,6 +1,6 @@
 ---
 title: Hoşgeldiniz
-permalink: /docs/hosgeldiniz
+permalink: "/docs/hosgeldiniz"
 key: hosgeldiniz
 layout: article
 aside:
@@ -8,6 +8,7 @@ aside:
 sidebar:
   nav: layouts
 ---
+
 Merhaba, hoşgeldiniz. Site daha kullanılır olabilmesi açısından şuan düzenleniyor.
 
 Sitede henüz içerik yok.
