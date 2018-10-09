@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://tianqi.name
+url     : kontrolotomasyon.github.io
 baseurl : 
 title   : Koder Akademi
 description: >
@@ -28,34 +28,32 @@ description: >
 ## => Language and Timezone
 ##############################
 lang: tr # the language of your site, "en" (default, English), "zh"(简体中文), "zh-Hans"(简体中文), "zh-Hant"(繁體中文)
-timezone: Asia/Shanghai
+timezone: 
 
 
 ## => Author and Social
 ##############################
 author:
   type      : organization # "person" (default), "organization"
-  name      : TeXt
+  name      : Umut
   url       :
   avatar    : /assets/apple-touch-icon.png
-  bio: >
-    TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
-    Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-  email     : kitian616@outlook.com
+  bio       : 
+  email     : umut_ergene_67@hotmail.com
   facebook  :
-  twitter   : kitian616
-  googleplus: 101827554735084402671
-  weibo     : 234695683
+  twitter   : 
+  googleplus: 
+  weibo     : 
   douban    :
   linkedin  :
-  github    : kitian616/jekyll-TeXt-theme
+  github    : 
   npm       :
   telegram  :
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: kitian616/jekyll-TeXt-theme
+repository: kontrolotomasyon/kontrolotomasyon.github.io
 repository_tree: master
 
 
@@ -108,7 +106,7 @@ sources: # bootcdn (default), unpkg
 ## => Comments
 ##############################
 comments:
-  provider: gitalk # false (default), "disqus", "gitalk", "custom"
+  provider:  # false (default), "disqus", "gitalk", "custom"
 
   ## Disqus
   disqus:
@@ -117,35 +115,35 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 143666b578a416f82175
-    clientSecret: 1d1c0604a1a4bff9b59ab7f56724dc0e8b837775
-    repository  : gitalk-demo
-    owner       : kitian616
+    clientID    : 
+    clientSecret: 
+    repository  :
+    owner       : 
     admin:
-      - kitian616
+      
 
 
 ## => Pageview
 ##############################
 pageview:
-  provider: leancloud # false (default), "leancloud", "custom"
+  provider:  # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
-    app_id    : uAG3OhdcH8H4fxSqXLyBljA7-gzGzoHsz
-    app_key   : Mzf5m9skSwYVWVXhGiYMNyXs
-    app_class : TeXtDemo
+    app_id    :
+    app_key   :
+    app_class :
 
 
 ## => Analytics
 ##############################
 analytics:
-  provider: google # false (default), "google", "custom"
+  provider: # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : UA-71907556-1
-    anonymize_ip: false
+    tracking_id :
+    anonymize_ip:
 
 
 ## => Build
