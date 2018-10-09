@@ -1,6 +1,6 @@
 ---
 title: Quick Start
-permalink: "/docs/en/quick-start"
+permalink: "/docs/tr/icerik-1"
 key: docs-quick-start
 ---
 
