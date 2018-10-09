@@ -22,7 +22,7 @@ header:
 
 
 docs-en:
-  - title:      Start
+  - title:      Başlık1
     children:
       - title:  Quick Start
         url:    /docs/en/quick-start
@@ -30,7 +30,7 @@ docs-en:
         url:    /docs/en/structure
       - title:  Update form 1.x to 2.x
         url:    /docs/en/update-form-1-to-2
-  - title:      Customization
+  - title:      Başlık2
     children:
       - title:  Configuration
         url:    /docs/en/configuration
@@ -42,7 +42,8 @@ docs-en:
         url:    /docs/en/logo-and-favicon
       - title:  Authors
         url:    /docs/en/authors
-  - title:      Content
+
+  - title:      Başlık3
     children:
       - title:  Writing Posts
         url:    /docs/en/writing-posts
@@ -50,7 +51,7 @@ docs-en:
         url:    /docs/en/markdown-enhancements
       - title:  Additional Styles
         url:    /docs/en/additional-styles
-  - title:      Extra
+  - title:      Başlık4
     children:
       - title:  Spacing
         url:    /docs/en/spacing
@@ -68,60 +69,3 @@ docs-en:
         url:    /docs/en/card
       - title:  Hero
         url:    /docs/en/hero
-  - title:      Languages
-    children:
-      - title:  Change Language
-        url:    /docs/tr/quick-start
-
-
-docs-tr:
-  - title:      Başlık1
-    children:
-      - title:  Quick Start
-        url:    /docs/tr/quick-start
-      - title:  Structure
-        url:    /docs/tr/structure
-      - title:  Update form 1.x to 2.x
-        url:    /docs/tr/update-form-1-to-2
-  - title:      Başlık2
-    children:
-      - title:  Configuration
-        url:    /docs/tr/configuration
-      - title:  Navigation
-        url:    /docs/tr/navigation
-      - title:  Layouts
-        url:    /docs/tr/layouts
-      - title:  Logo and Favicon
-        url:    /docs/tr/logo-and-favicon
-      - title:  Authors
-        url:    /docs/tr/authors
-  - title:      Başlık3
-    children:
-      - title:  Writing Posts
-        url:    /docs/tr/writing-posts
-      - title:  Markdown Enhancements
-        url:    /docs/tr/markdown-enhancements
-      - title:  Additional Styles
-        url:    /docs/tr/additional-styles
-  - title:      Başlık4
-    children:
-      - title:  Spacing
-        url:    /docs/tr/spacing
-      - title:  Grid
-        url:    /docs/tr/grid
-      - title:  Icons
-        url:    /docs/tr/icons
-      - title:  Image
-        url:    /docs/tr/image
-      - title:  Button
-        url:    /docs/tr/button
-      - title:  Item
-        url:    /docs/tr/item
-      - title:  Card
-        url:    /docs/tr/card
-      - title:  Hero
-        url:    /docs/tr/hero
-  - title:      Dil Değiştir
-    children:
-      - title:  English
-        url:    /docs/en/quick-start
