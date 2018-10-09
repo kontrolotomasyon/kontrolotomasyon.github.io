@@ -1,16 +1,16 @@
 ---
 title: 简体中文 (Simplified Chinese)
+permalink: "/languages/chinese-simplified.html"
 key: lang-zh-hans
-permalink: /languages/chinese-simplified.html
-cover: /docs/assets/images/languages/lang-zh.jpg
+cover: "/docs/assets/images/languages/lang-zh.jpg"
 lang: zh-Hans
 header:
   theme: dark
-  background: '#612a1f'
+  background: "#612a1f"
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/languages/lang-image-zh-hans.jpg
+    src: "/docs/assets/images/languages/lang-image-zh-hans.jpg"
 ---
 
 在 *_config.yml* 或者头信息里设置 `lang: zh-Hans` 或 `lang: zh` 后，主题文字变为简体中文。
