@@ -14,49 +14,117 @@ header:
   - titles:
       en:       Training
       tr:       Eğitim
-    url:        /docs/tr/icerik-2
+    url:        /docs/hosgeldiniz
   - titles:
       en:       Contact
       tr:       İletişim
     url:        /contact.html
 
 
-docs-tr:
-  - title:      Başlık1
-    children:
-      - title:  İçerik1
-        url:    /docs/tr/icerik-1
-      - title:  İçerik2
-        url:    /docs/tr/icerik-2
-
-
 layouts:
-  - title: Layouts
+  - title: Elektrik
     children:
       - title:  Single
         url:    /page/single.html
       - title:  Aside
         url:    /page/aside.html
-      - title:  Sidebar
-        url:    /page/sidebar.html
+  
+  - title: Elektronik
+    children:
+      - title:  Dijital Elektronik
+        url:    /page/single.html
+      - title:  Analog Elektronik
+        url:    /page/single.html
+      - title:  Güç Elektroniği
+        url:    /page/single.html
+      - title:  Elektronik Haberleşme
+        url:    /page/single.html
+      - title:  Micro İşlemciler
+        url:    /page/single.html
 
-      - title:  Sidebar (Aside)
-        url:    /page/sidebar-aside.html
-      - title:  Article Header Overlay Background Fill
-        url:    /page/article-header-overlay-background-fill.html
-      - title:  Article Header Overlay Background Image
-        url:    /page/article-header-overlay-background-image.html
+  - title: Sensörler & Algılayıcılar
 
-      - title:  Article Header Image
-        url:    /page/article-header-cover-image.html
-      - title:  Article Header Overlay Background Image (Customized Header Background)
-        url:    /page/article-header-overlay-background-image-header-background.html
-      - title:  Article Header Image (Customized Header Background)
-        url:    /page/article-header-cover-image-header-background.html
+  - title: Robotik
+    children:
+      - title:  Fanuc
+        url:    /page/ornek.html
+      - title:  ABB
+        url:    /page/ornek.html
+      - title:  Yaskawa
+        url:    /page/ornek.html
+      - title:  Kuka
+        url:    /page/ornek.html
+      - title:  Kawasaki
+        url:    /page/ornek.html
+      - title:  Omron
+        url:    /page/ornek.html
+  - title: PLC
+    children:
+      - title:  Siemens
+        url:    /page/ornek.html
+      - title:  Delta
+        url:    /page/ornek.html
+      - title:  Omron
+        url:    /page/ornek.html
+      - title:  Allen Bradley
+        url:    /page/ornek.html
+      - title:  ABB
+        url:    /page/ornek.html
+      - title:  Mitshubishi
+        url:    /page/ornek.html
+      - title:  Schneider
+        url:    /page/ornek.html
+      - title:  GMTCNT
+        url:    /page/ornek.html
+      - title:  LG
+        url:    /page/ornek.html
+      - title:  Fatek
+        url:    /page/ornek.html
+      - title:  Beckhoff
+        url:    /page/ornek.html
+      - title:  Panasonic
+        url:    /page/ornek.html
+      - title:  Festo
+        url:    /page/ornek.html
 
-      - title:  Article Header Overlay Background Fill (Immersive + Translucent Header)
-        url:    /page/article-header-overlay-background-fill-immersive-translucent-header.html
-      - title:  Article Header Overlay Background Image (Immersive + Translucent Header)
-        url:    /page/article-header-overlay-background-image-immersive-translucent-header.html
-      - title:  Article Header Image (Immersive + Translucent Header)
-        url:    /page/article-header-cover-image-immersive-translucent-header.html
+  - title: HMI
+    url:        /page/ornek.html
+
+
+  - title: Geliştirme Kartları
+    children:
+      - title:  Arduino
+        url:    /page/single.html
+      - title:  Raspberry Pi
+        url:    /page/aside.html
+
+  - title: Yazılım
+    children:
+      - title:  C
+        url:    /page/ornek.html
+      - title:  C++
+        url:    /page/ornek.html
+      - title:  C#
+        url:    /page/ornek.html
+      - title:  Python
+        url:    /page/ornek.html
+      - title:  Matlab
+        url:    /page/ornek.html
+      - title:  Java
+        url:    /page/ornek.html
+      - title:  JavaScript
+        url:    /page/ornek.html
+  
+  - title: Tasarım
+    children:
+      - title:  Autocad
+        url:    /page/ornek.html
+      - title:  Solidworks
+        url:    /page/ornek.html
+      - title:  Siemens NX
+        url:    /page/ornek.html
+
+
+  - title: Pnömatik
+  - title: Hidrolik
+  - title: Mekanik
