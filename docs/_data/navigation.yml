@@ -30,32 +30,6 @@ docs-tr:
         url:    /docs/tr/icerik-2
 
 
-  - title:      Başlık2
-    children:
-      - title:  İçerik-3
-        url:    /docs/tr/icerik-3
-      - title:  İçerik4
-        url:    /docs/tr/icerik-4
-
-
-  - title:      Başlık3
-    children:
-      - title:  İçerik5
-        url:    /docs/tr/icerik-5
-      - title:  İçerik6
-        url:    /docs/tr/icerik-6
-
-
-  - title:      Başlık4
-    children:
-      - title:  İçerik7
-        url:    /docs/tr/icerik-7
-      - title:  İçerik8
-        url:    /docs/tr/icerik-8
-
-
-
-
 layouts:
   - title: Layouts
     children:
