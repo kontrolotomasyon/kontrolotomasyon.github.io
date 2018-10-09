@@ -1,9 +1,8 @@
 ---
 title: Writing Posts
-permalink: /docs/tr/icerik-2
+permalink: "/docs/tr/icerik-2"
 key: docs-writing-posts
 ---
-
 
 <!--more-->
 
