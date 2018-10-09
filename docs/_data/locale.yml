@@ -1,37 +1,28 @@
 NAV:
   HOME:
     en:      "Home"
-    zh:      "主页"
-    zh-Hans: "主页"
-    zh-Hant: "主頁"
+    zh:      "Anasayfa"
+
   ALL:
     en:      "Archive"
     zh:      "归档"
-    zh-Hans: "归档"
-    zh-Hant: "歸檔"
+
   RSS:
     en:      "RSS"
-    zh:      "RSS"
-    zh-Hans: "RSS"
-    zh-Hant: "RSS"
+    tr:      "RSS"
 
 READMORE:
   en:      "Read more"
-  zh:      "阅读更多"
-  zh-Hans: "阅读更多"
-  zh-Hant: "閱讀更多"
+  tr:      "Devamı"
 
 SEARCH:
   en:      "Search"
-  zh:      "搜索"
-  zh-Hans: "搜索"
-  zh-Hant: "搜索"
+  tr:      "Ara"
 
 CANCEL:
   en:      "Cancel"
-  zh:      "取消"
-  zh-Hans: "取消"
-  zh-Hant: "取消"
+  zh:      "İptal"
+
 
 VIEWS:
   en:      "views"
