@@ -70,61 +70,61 @@ docs-en:
         url:    /docs/en/hero
   - title:      Languages
     children:
-      - title:  中文
-        url:    /docs/zh/quick-start
+      - title:  Change Language
+        url:    /docs/tr/quick-start
 
 
 docs-tr:
-  - title:      Start
+  - title:      Başlık1
     children:
       - title:  Quick Start
-        url:    /docs/en/quick-start
+        url:    /docs/tr/quick-start
       - title:  Structure
-        url:    /docs/en/structure
+        url:    /docs/tr/structure
       - title:  Update form 1.x to 2.x
-        url:    /docs/en/update-form-1-to-2
-  - title:      Customization
+        url:    /docs/tr/update-form-1-to-2
+  - title:      Başlık2
     children:
       - title:  Configuration
-        url:    /docs/en/configuration
+        url:    /docs/tr/configuration
       - title:  Navigation
-        url:    /docs/en/navigation
+        url:    /docs/tr/navigation
       - title:  Layouts
-        url:    /docs/en/layouts
+        url:    /docs/tr/layouts
       - title:  Logo and Favicon
-        url:    /docs/en/logo-and-favicon
+        url:    /docs/tr/logo-and-favicon
       - title:  Authors
-        url:    /docs/en/authors
-  - title:      Content
+        url:    /docs/tr/authors
+  - title:      Başlık3
     children:
       - title:  Writing Posts
-        url:    /docs/en/writing-posts
+        url:    /docs/tr/writing-posts
       - title:  Markdown Enhancements
-        url:    /docs/en/markdown-enhancements
+        url:    /docs/tr/markdown-enhancements
       - title:  Additional Styles
-        url:    /docs/en/additional-styles
-  - title:      Extra
+        url:    /docs/tr/additional-styles
+  - title:      Başlık4
     children:
       - title:  Spacing
-        url:    /docs/en/spacing
+        url:    /docs/tr/spacing
       - title:  Grid
-        url:    /docs/en/grid
+        url:    /docs/tr/grid
       - title:  Icons
-        url:    /docs/en/icons
+        url:    /docs/tr/icons
       - title:  Image
-        url:    /docs/en/image
+        url:    /docs/tr/image
       - title:  Button
-        url:    /docs/en/button
+        url:    /docs/tr/button
       - title:  Item
-        url:    /docs/en/item
+        url:    /docs/tr/item
       - title:  Card
-        url:    /docs/en/card
+        url:    /docs/tr/card
       - title:  Hero
-        url:    /docs/en/hero
-  - title:      Languages
+        url:    /docs/tr/hero
+  - title:      Dil Değiştir
     children:
-      - title:  中文
-        url:    /docs/zh/quick-start
+      - title:  English
+        url:    /docs/en/quick-start
 
 
 layouts:
