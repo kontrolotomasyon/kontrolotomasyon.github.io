@@ -21,6 +21,24 @@ header:
     url:        /contact.html
 
 
+docs:
+  - title:      Start
+    children:
+      - title:  Quick Start
+        url:    /
+      - title:  Structure
+        url:    /
+
+
+books:
+  - title: KİTAP
+    children:
+      - title:  Single
+        url:    /page/single.html
+      - title:  Aside
+        url:    /page/aside.html
+
+
 layouts:
   - title: Elektrik
     children:

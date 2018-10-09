@@ -217,7 +217,8 @@ defaults:
     values:
       layout: article
       sidebar:
-        nav: docs-en
+        nav: docs
+        nav: books
       license: true
       aside:
         toc: true
