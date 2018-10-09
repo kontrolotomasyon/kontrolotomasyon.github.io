@@ -21,51 +21,34 @@ header:
     url:        /contact.html
 
 
-docs-en:
+docs-tr:
   - title:      Başlık1
     children:
-      - title:  Quick Start
-        url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
-      - title:  Update form 1.x to 2.x
-        url:    /docs/en/update-form-1-to-2
+      - title:  İçerik1
+        url:    /docs/tr/icerik-1
+      - title:  İçerik2
+        url:    /docs/tr/icerik-2
+
+
   - title:      Başlık2
     children:
-      - title:  Configuration
-        url:    /docs/en/configuration
-      - title:  Navigation
-        url:    /docs/en/navigation
-      - title:  Layouts
-        url:    /docs/en/layouts
-      - title:  Logo and Favicon
-        url:    /docs/en/logo-and-favicon
-      - title:  Authors
-        url:    /docs/en/authors
+      - title:  İçerik-3
+        url:    /docs/tr/icerik-3
+      - title:  İçerik4
+        url:    /docs/tr/icerik-4
+
 
   - title:      Başlık3
     children:
-      - title:  Writing Posts
-        url:    /docs/en/writing-posts
-      - title:  Markdown Enhancements
-        url:    /docs/en/markdown-enhancements
-      - title:  Additional Styles
-        url:    /docs/en/additional-styles
+      - title:  İçerik5
+        url:    /docs/tr/icerik-5
+      - title:  İçerik6
+        url:    /docs/tr/icerik-6
+
+
   - title:      Başlık4
     children:
-      - title:  Spacing
-        url:    /docs/en/spacing
-      - title:  Grid
-        url:    /docs/en/grid
-      - title:  Icons
-        url:    /docs/en/icons
-      - title:  Image
-        url:    /docs/en/image
-      - title:  Button
-        url:    /docs/en/button
-      - title:  Item
-        url:    /docs/en/item
-      - title:  Card
-        url:    /docs/en/card
-      - title:  Hero
-        url:    /docs/en/hero
+      - title:  İçerik7
+        url:    /docs/tr/icerik-7
+      - title:  İçerik8
+        url:    /docs/tr/icerik-8
