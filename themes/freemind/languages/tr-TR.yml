@@ -1,0 +1,20 @@
+categories: Kategoriler 
+search: Ara
+tags: Etiketler
+tagcloud: "Tag Cloud"
+tweets: Tweetler
+prev: Önceki
+next: Sonraki
+comment: Yorumlar
+archive_a: Arşivler
+archive_b: "Arşivler: %s"
+page: "Sayfa %d"
+recent_posts: "Son Gönderiler"
+description: Açıklama
+read_more: "Devamı.."
+links: Bağlantılar
+top: Pin
+no_comment: "Henüz yorum yok. Yorum yapabilirsin."
+go_to_comment: "Yoruma git."
+recent_comments: "Son yorumlar"
+recommended_posts: "Önerilenler"
