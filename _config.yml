@@ -80,8 +80,3 @@ theme: freemind
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: {https://github.com/kontrolotomasyon/kontrolotomasyon.github.io.git}
-  branch: master
-  message: "Site güncellendi: {{ now('YYYY-MM-DD HH:mm:ss') }}"
