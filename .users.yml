@@ -1,0 +1,9 @@
+users:
+- id: ff25a656-38eb-4859-9cbf-bd05c78b082b
+  name: admin
+  email: 2021180008.umutergene@gmail.com
+  hash: $2a$10$JvSUe2wbKfn7Ojl0L09OteyftJgYRNQmS8GmP3QPA..BL1GQBYxPy
+- id: 9f017b35-5941-4918-8af2-61a3fbb4c42c
+  name: umut
+  email: umut_ergene_67@hotmail.com
+  hash: $2a$10$ht39MxJSTeHP/oZO11ky0eleer6otzWGTbYHp8hBpy9.q0BsHnpx6
