@@ -1,0 +1,146 @@
+---
+title: Koder Akademi
+timezone: UTC
+collections:
+  articles:
+    title: Articles
+    output: true
+  docs:
+    title: Docs
+    output: true
+  languages:
+    title: Languages
+    output: true
+  page:
+    title: Page
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: article
+    license: true
+    category: post
+    aside:
+      toc: true
+    show_edit_on_github: true
+    pageview: true
+- scope:
+    path: ''
+    type: articles
+  values:
+    show_date: false
+- scope:
+    path: ''
+    type: languages
+  values:
+    layout: article
+- scope:
+    path: _docs
+  values:
+    layout: article
+    sidebar:
+      nav: docs
+    license: true
+    aside:
+      toc: true
+    show_edit_on_github: true
+    show_date: false
+text_skin: default
+highlight_theme: default
+url: kontrolotomasyon.github.io
+baseurl: 
+description: 'A super customizable Jekyll theme for personal site, team site, blog,
+  project, documentation, etc.
+
+'
+lang: tr
+author:
+  type: organization
+  name: Umut
+  url: 
+  avatar: "/assets/apple-touch-icon.png"
+  bio: 
+  email: umut_ergene_67@hotmail.com
+  facebook: 
+  twitter: 
+  googleplus: 
+  weibo: 
+  douban: 
+  linkedin: 
+  github: 
+  npm: 
+  telegram: 
+repository: kontrolotomasyon/kontrolotomasyon.github.io
+repository_tree: master
+paths:
+  root: 
+  home: 
+  archive: 
+  rss: 
+excerpt_separator: "<!--more-->"
+license: CC-BY-4.0
+toc:
+  selectors: 
+mathjax: true
+mathjax_autoNumber: true
+mermaid: true
+chart: true
+paginate: 8
+paginate_path: "/page:num"
+sources: 
+comments:
+  provider: 
+  disqus:
+    shortname: 
+  gitalk:
+    clientID: 
+    clientSecret: 
+    repository: 
+    owner: 
+    admin: 
+pageview:
+  provider: 
+  leancloud:
+    app_id: 
+    app_key: 
+    app_class: 
+analytics:
+  provider: 
+  google:
+    tracking_id: 
+    anonymize_ip: 
+markdown: kramdown
+highlighter: rouge
+permalink: date
+exclude:
+- CHANGELOG.md
+- HOW_TO_RELEASE.md
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README-*.md
+- README.md
+- gulpfile.js
+- jekyll-text-theme.gemspec
+- package-lock.json
+- package.json
+- "/node_modules"
+- "/vendor"
+- "/_posts"
+- "/index.html"
+collections_dir: docs
+plugins:
+- jekyll-feed
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-github-metadata
+- jemoji
+data_dir: "/docs/_data"
